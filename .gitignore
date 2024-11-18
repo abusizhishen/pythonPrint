@@ -1,0 +1,7 @@
+.venv
+.idea
+测试数据.xlsx
+*.pyc
+__pycache__
+dist
+build
